@@ -1,7 +1,7 @@
 # C# Code Challenges
 ## Coding challenges in C#
 
-Completing questions (or variations of questions) from: https://adriann.github.io/programming_problems.html
+Completing challenges (or variations of challenges) from: https://adriann.github.io/programming_problems.html
 
 1. Write a program that prints ‘Hello World’ to the screen.
 2. Write a program that asks the user for her name and greets her with her name.
