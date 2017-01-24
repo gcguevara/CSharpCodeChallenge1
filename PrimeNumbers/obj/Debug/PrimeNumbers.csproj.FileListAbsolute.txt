@@ -1,0 +1,6 @@
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe.config
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.exe
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\bin\Debug\PrimeNumbers.pdb
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.csprojResolveAssemblyReference.cache
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.exe
+c:\users\gary\documents\visual studio 2015\Projects\PrimeNumbers\PrimeNumbers\obj\Debug\PrimeNumbers.pdb
