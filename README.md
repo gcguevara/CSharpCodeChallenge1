@@ -1,2 +1,2 @@
-# CSharpCodeChallenge1
+# CSharp Code Challenges
 Coding challenges in C#
