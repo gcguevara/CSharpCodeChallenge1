@@ -8,7 +8,7 @@ namespace CodingChallenge1
 {
     class Program
     {
-        /******* CODING CHALLENGE 1 *****
+        /******* CODING CHALLENGE #1-6 *****
          * 
          * 1. Write a function that prints "Hello World!"
          * 2. Ask the user for their name and greet them by name
