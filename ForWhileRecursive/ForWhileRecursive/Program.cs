@@ -8,6 +8,12 @@ namespace ForWhileRecursive
 {
     class Program
     {
+        /* ***** CODE CHALLENGE #15 *****
+         * 
+         * Write three functions that sum the numbers in a list using a for loop, while loop, and recursion.
+         * 
+         */
+
         public static int sumFor(List<int> nums)
         {
             int sum = 0;
