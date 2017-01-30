@@ -14,7 +14,7 @@ Completing challenges (or variations of challenges) from: https://adriann.github
 8. [Write a program that prints all prime numbers up to 100.](/PrimeNumbers/Program.cs)
 9. [Write a function that returns the largest element in a list without using .Max().](/ListChallenges/Program.cs)
 10. [Write a function that reverses a list without using .Reverse().](/ListChallenges/Program.cs)
-11. [Write a function that checks if an element occurs within a list without using .Contain().(/ListChallenges/Program.cs)
+11. [Write a function that checks if an element occurs within a list without using .Contain().](/ListChallenges/Program.cs)
 12. [Write a function that returns only the elements at odd indexes in a list.](/ListChallenges/Program.cs)
 13. [Write a function that keeps a running total of a list.](/ListChallenges/Program.cs)
 14. [Write a function that checks if a string is a palindrome.](/ListChallenges/Program.cs)
