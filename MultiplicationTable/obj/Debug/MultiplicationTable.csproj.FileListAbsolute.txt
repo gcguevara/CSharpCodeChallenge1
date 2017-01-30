@@ -4,3 +4,6 @@ c:\users\gary\documents\visual studio 2015\Projects\MultiplicationTable\Multipli
 c:\users\gary\documents\visual studio 2015\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.csprojResolveAssemblyReference.cache
 c:\users\gary\documents\visual studio 2015\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.exe
 c:\users\gary\documents\visual studio 2015\Projects\MultiplicationTable\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
+C:\Users\Gary\Documents\GitHub\CSharpCodeChallenges\MultiplicationTable\bin\Debug\MultiplicationTable.exe.config
+C:\Users\Gary\Documents\GitHub\CSharpCodeChallenges\MultiplicationTable\obj\Debug\MultiplicationTable.exe
+C:\Users\Gary\Documents\GitHub\CSharpCodeChallenges\MultiplicationTable\obj\Debug\MultiplicationTable.pdb
