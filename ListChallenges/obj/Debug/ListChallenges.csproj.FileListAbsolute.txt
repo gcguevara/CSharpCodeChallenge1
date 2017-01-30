@@ -1,0 +1,6 @@
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\bin\Debug\ListChallenges.exe.config
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\bin\Debug\ListChallenges.exe
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\bin\Debug\ListChallenges.pdb
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\obj\Debug\ListChallenges.csprojResolveAssemblyReference.cache
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\obj\Debug\ListChallenges.exe
+C:\Users\Gary\Source\Repos\comic-book-gallery\src\ListChallenges\ListChallenges\obj\Debug\ListChallenges.pdb
