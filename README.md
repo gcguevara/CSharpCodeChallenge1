@@ -18,4 +18,5 @@ Completing challenges (or variations of challenges) from: https://adriann.github
 12. [Write a function that returns only the elements at odd indexes in a list.](/ListChallenges/Program.cs)
 13. [Write a function that keeps a running total of a list.](/ListChallenges/Program.cs)
 14. [Write a function that checks if a string is a palindrome.](/ListChallenges/Program.cs)
+15. [Write three functions that sum the numbers in a list using a for loop, while loop, and recursion.](/ForWhileRecursive/ForWhileRecursive/Program.cs)
 
