@@ -3,6 +3,8 @@
 
 Completing challenges (or variations of challenges) from: https://adriann.github.io/programming_problems.html
 
+The challenges theoretically get progressively harder as the number rises.
+
 1. [Write a program that prints 'Hello World' to the screen.](/MultiplyOrAdd/Program.cs)
 2. [Write a program that asks the user for their name and greets them with their name.](/MultiplyOrAdd/Program.cs)
 3. [Modify the previous program such that only the users Alice and Bob are greeted.](/MultiplyOrAdd/Program.cs)
@@ -22,3 +24,4 @@ Completing challenges (or variations of challenges) from: https://adriann.github
 16. [Write a function on_all that applies a function to every element of a list and use it to print the first twenty perfect squares.](/ListCombinations/ListCombinations/Program.cs)
 17. [Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]](/ListCombinations/ListCombinations/Program.cs)
 18. [Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6]. You can do this quicker than concatenating them followed by a sort.](/SimultaneousMergeAndSort/SimultaneousMergeAndSort/Program.cs)
+19. [Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].](/AlternatingCombine/AlternatingCombine/Program.cs)
