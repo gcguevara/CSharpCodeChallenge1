@@ -25,3 +25,5 @@ The challenges theoretically get progressively harder as the number rises.
 17. [Write a function that concatenates two lists. [a,b,c], [1,2,3] → [a,b,c,1,2,3]](/ListCombinations/ListCombinations/Program.cs)
 18. [Write a function that merges two sorted lists into a new sorted list. [1,4,6],[2,3,5] → [1,2,3,4,5,6]. You can do this quicker than concatenating them followed by a sort.](/SimultaneousMergeAndSort/SimultaneousMergeAndSort/Program.cs)
 19. [Write a function that combines two lists by alternatingly taking elements, e.g. [a,b,c], [1,2,3] → [a,1,b,2,c,3].](/AlternatingCombine/AlternatingCombine/Program.cs)
+20. [Write a function that computes the list of the first 100 Fibonacci numbers.](/Fibonacci/Fibonacci/Program.cs)
+21. [Write a function that rotates a list by k elements. For example [1,2,3,4,5,6] rotated by two becomes [3,4,5,6,1,2]. Try solving this without creating a copy of the list. How many swap or move operations do you need?](/TwoIndexRotator/TwoIndexRotator/Program.cs)
