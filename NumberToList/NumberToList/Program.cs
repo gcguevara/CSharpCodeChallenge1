@@ -8,9 +8,9 @@ namespace NumberToList
 {
     class Program
     {
-        /* *****CODING CHALLENGE #21*****
+        /* *****CODING CHALLENGE #22*****
          * 
-         * 21. Write a function that takes a number and returns a list of its digits.
+         * 22. Write a function that takes a number and returns a list of its digits.
          * 
          */
 
